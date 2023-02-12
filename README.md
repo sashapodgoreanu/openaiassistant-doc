@@ -13,4 +13,4 @@ Go to **Settings > Extensions > OpenAI Assistant**
 
 Complete the following information:
 
-- To enter your [API Key](https://beta.openai.com/account/api-keys) press cmd+shift+p and search for `OpenAI Assistant: Set API KEY`. Your API KEY will be safely stored. 
+- To enter your [API Key](https://beta.openai.com/account/api-keys) press cmd+shift+p and search for `OpenAI Assistant: Set API KEY`. Your API KEY will be safely stored.   
